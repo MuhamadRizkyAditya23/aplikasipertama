@@ -8,7 +8,8 @@
 </head>
 <body>
     <center>
-        <a href="login.php" ><button class="btn btn-primary">Halaman Login </a> </button>/<a href="register.php" ><button class="btn btn-primary">Halaman Pendaftaran </a> </button> 
+        <a href="login.php" ><button class="btn btn-danger">Halaman Login </a> </button>/
+        <a href="register.php" ><button class="btn btn-success">Halaman Pendaftaran </a> </button> 
     </center>
 </body>
 </html>
